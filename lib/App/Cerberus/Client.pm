@@ -1,6 +1,6 @@
 package App::Cerberus::Client;
 {
-  $App::Cerberus::Client::VERSION = '0.07';
+  $App::Cerberus::Client::VERSION = '0.08';
 }
 
 use strict;
@@ -74,7 +74,7 @@ App::Cerberus::Client - A multi-server client for speaking to App::Cerebrus
 
 =head1 VERSION
 
-version 0.07
+version 0.08
 
 =head1 SYNOPSIS
 
